@@ -1,6 +1,6 @@
 # Teste Frontend Juni
 
-##Objetivo: 
+## Objetivo: 
 
 Na página de produto do site “Animale.com.br”, o desenvolvedor deverá criar um rodapé fixo na página, onde mostrará as seguintes informações coletadas daquele produto (imagem de exemplo em anexo):
 
@@ -12,7 +12,7 @@ Na página de produto do site “Animale.com.br”, o desenvolvedor deverá cria
 - Botão de Fechar o rodapé
 
 
-Método:
+## Método:
 
 1) Entre em uma página de produto do site “https://www.animale.com.br” e abra o console do navegador.
 2) Todo o teste deve ser desenvolvido no console, inclusive o css.
